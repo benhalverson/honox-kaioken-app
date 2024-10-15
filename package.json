@@ -8,7 +8,7 @@
     "deploy": "$npm_execpath run build && wrangler pages deploy"
   },
   "dependencies": {
-    "hono": "^4.6.2",
+    "hono": "^4.6.5",
     "kaioken": "^0.29.2"
   },
   "devDependencies": {
